@@ -96,3 +96,8 @@ This project demonstrates a simulated enterprise security setup using Microsoft 
   * How labels could be used to protect data involved in the simulation.
 
 
+## Screenshots 
+
+![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/7cf9e895408e3bea45d481b93ad5eabcd21b4c75/Screenshot%202.png)
+
+
