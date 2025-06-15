@@ -127,4 +127,6 @@ This project demonstrates a simulated enterprise security setup using Microsoft 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/96afb21bc2eaac1f699a1db332f744fbcbfe605c/Screenshoots/Screenshot12.png)
 
+![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/475f9d1a1575f50e0c61f82b993fc8b4ca46fb2f/Screenshoots/Pic%2013.png)
+
 
