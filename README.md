@@ -100,50 +100,55 @@ This project demonstrates a simulated enterprise security setup using Microsoft 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/7cf9e895408e3bea45d481b93ad5eabcd21b4c75/Screenshot%202.png)
 
-Instant Sandbox” (recommended). 
+* Instant Sandbox” (recommended). 
 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/28f455f6c8054ab8000044a46889eb191869bed9/Screenshot%205.png)
 
-Add new groups on Azure portal. 
+* Add new groups on Azure portal. 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/9f9b128c8b91c08ac31ef67430ee0496152ab721/Screenshoots/Screenshot%201.png)
 
-Create log analytics workspace. 
+* Create log analytics workspace. 
 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/b368d9fd8de123673857d9c59cd1f30072433ac2/Screenshoots/Screenshot%202.png)
 
-Add microsoft sentinel to a workspace. 
+* Add microsoft sentinel to a workspace. 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/708a852a37cf0e121810ea15e3e4105de6e78786/Screenshoots/Screenshot%203.png)
 
-Subscription based microsoft defender for cloud. 
+* Subscription based microsoft defender for cloud. 
 
 ![iamge alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/f49a4316eab81767a13cceef5cdb7dea60bb1633/Screenshoots/Screenshot4.png)
 
-Analytics rule details. 
+* Analytics rule details. 
 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/4a794ad5e89f369d5e66d5b6ffe6fd1c241bd32a/Screenshoots/Screenshot%205.png)
 
-Select azure activity or azure active directory. On Microsoft sentinel for data connectors. 
+* Select azure activity or azure active directory. On Microsoft sentinel for data connectors. 
 
 
 ![[image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/9b81db74138e2cbf057ba16c4414a0b16b31e283/Screenshoots/Screenshot%206.png)
 
-Search for Microsoft defender for cloud. On Microsoft sentinel for data connectors.
-
-![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/8e900f3115149c29ba4c37095c3f9740b65440c6/Screenshoots/Screenshot%207.png)
+* Search for Microsoft defender for cloud. On Microsoft sentinel for data connectors.
 
 
 ![image](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/ad5f6e5f2f004014978e3f14db6f789b43846292/Screenshoots/Screenshot%208.png)
+ * "Compliance Score"
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/53ecbaf659a886aae76d449001b165b53594f61d/Screenshoots/Screenshot%209.png)
 
+* Results for "DLP Policies"
+
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/817f572c23c55924bdf7f5d932cbbdd0289f1db4/Screenshoots/Screenshot%2010.png)
 
+* Results for "Information Protection labels"
+
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/7e098dab32cd8b05ec7f6b99cdf25ef05d29b261/Screenshoots/Screenshot%2011.png)
+
+Azure portal welcome page. 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/96afb21bc2eaac1f699a1db332f744fbcbfe605c/Screenshoots/Screenshot12.png)
 
