@@ -1,0 +1,22 @@
+# Documentation for Azure AD configurations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
