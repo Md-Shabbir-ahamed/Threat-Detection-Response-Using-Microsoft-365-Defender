@@ -129,10 +129,6 @@ This project demonstrates a simulated enterprise security setup using Microsoft 
 
 * Select azure activity or azure active directory. On Microsoft sentinel for data connectors. 
 
-![[image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/9b81db74138e2cbf057ba16c4414a0b16b31e283/Screenshoots/Screenshot%206.png)
-
-* Search for Microsoft defender for cloud. On Microsoft sentinel for data connectors.
-
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/53ecbaf659a886aae76d449001b165b53594f61d/Screenshoots/Screenshot%209.png)
 
