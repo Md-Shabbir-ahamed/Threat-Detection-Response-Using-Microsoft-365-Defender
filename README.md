@@ -127,7 +127,12 @@ This project demonstrates a simulated enterprise security setup using Microsoft 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/4a794ad5e89f369d5e66d5b6ffe6fd1c241bd32a/Screenshoots/Screenshot%205.png)
 
-* Select azure activity or azure active directory. On Microsoft sentinel for data connectors. 
+* Select azure activity or azure active directory. On Microsoft sentinel for data connectors.
+
+![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/4add563c56837d6638b687fe8077bb2fc77d2bbc/Screenshoots/Screenshot%207.png)
+
+* Select Microsoft defender for office 356. On Microsoft sentinel for data connectors. Open conntors page. 
+
 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/53ecbaf659a886aae76d449001b165b53594f61d/Screenshoots/Screenshot%209.png)
@@ -149,6 +154,15 @@ This project demonstrates a simulated enterprise security setup using Microsoft 
 
 ![image alt](https://github.com/Md-Shabbir-ahamed/Threat-Detection-Response-Using-Microsoft-365-Defender/blob/475f9d1a1575f50e0c61f82b993fc8b4ca46fb2f/Screenshoots/Pic%2013.png)
 
-* Azure activity data connetors conntected. 
+* Azure activity data connetors conntected.
+
+
+## Conclusion
+
+This project successfully demonstrates the core capabilities of Microsoft 365 Defender, Azure AD, and Microsoft Sentinel within their respective free tiers. It provides a foundational understanding of how these tools integrate for threat detection, response, identity management, and compliance in a simulated enterprise environment.
+
+## License
+
+This project is open-source and available under the MIT License.
 
 
